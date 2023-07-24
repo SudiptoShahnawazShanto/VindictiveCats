@@ -1,7 +1,7 @@
 # Vindictive Cats
 
 <div align="center">
-  <img src="Images/Vindictive Cats.gif" alt="Vindictive Cats" width="100%"/>
+  <img src="Images/Vindictive Cats.gif" alt="Vindictive Cats" width="80%"/>
   <br>
 </div>
 
