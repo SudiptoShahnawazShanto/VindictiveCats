@@ -13,7 +13,7 @@ Hit the dogs with your own body, or the crates to destroy them.
 
 ## Gameplay
 The game has 2 levels for now. You have to drag the cat by clicking it. Then, release it
-using the direction viewer to the dogs.
+using the direction viewer towards the dogs.
 
 ### Level 1
 #### Beginning of Level 1
